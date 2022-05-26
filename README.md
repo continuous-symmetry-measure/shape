@@ -58,3 +58,6 @@ The permutations are performed on the reference shape (ref_shape)
 
 For questions about the code feel free to use the CoSyM website users group at: https://groups.google.com/g/csm-openu. 
 
+## License ##
+This project is provided under the GNU-GPL v2 license. Look at `LICENSE.md` for more information.
+
